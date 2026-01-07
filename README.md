@@ -17,10 +17,10 @@ A simple and responsive Todo application built using React.
 - Vite
 
 ## 🚀 Run Locally
-```bash
+
 npm install
 npm run dev
-
+```bash
 🔗 Live Demo: https://ravindra-todo-app.netlify.app
 
 
