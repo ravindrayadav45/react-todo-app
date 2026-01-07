@@ -20,7 +20,9 @@ A simple and responsive Todo application built using React.
 
 npm install
 npm run dev
-```bash
+
+
+```md
 🔗 Live Demo: https://ravindra-todo-app.netlify.app
 
 
